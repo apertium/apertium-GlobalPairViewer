@@ -36,4 +36,4 @@ To add or modify point data, change the apertiumPairs.json file.
 ## More:
 To learn more about the project, you can look at the wiki page https://wikis.swarthmore.edu/ling073/User:Cpillsb1/Final_project
 
-To learn more about Apertium, visit the Apertium website https://www.apertium.org/
+To learn more about Apertium, visit the Apertium website https://apertium.org/
